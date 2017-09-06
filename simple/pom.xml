@@ -27,7 +27,7 @@
     </repository>
     <snapshotRepository>
     <id>snapshots</id>
-    <url>http://54.198.90.166:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
+    <url>http://ec2-54-224-134-182.compute-1.amazonaws.com:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   <build>
